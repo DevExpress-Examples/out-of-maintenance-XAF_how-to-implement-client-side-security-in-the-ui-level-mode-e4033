@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Updater.cs](./CS/SecuritySystemExample.Module/DatabaseUpdate/Updater.cs) (VB: [Updater.vb](./VB/SecuritySystemExample.Module/DatabaseUpdate/Updater.vb))
+<!-- default file list end -->
 # How to: Implement client-side security in the UI-level mode
 
 
