@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to: Implement client-side security in the UI-level mode
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4033)**
+**[[Run Online]](https://codecentral.devexpress.com/e4033/)**
 <!-- run online end -->
 
 
